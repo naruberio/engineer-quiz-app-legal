@@ -1,0 +1,10 @@
+title: AIエンジニアクイズ サポート
+description: AIエンジニアクイズ (iOS) の公式サポートページ
+theme: jekyll-theme-cayman
+url: "https://naruberio.github.io"
+baseurl: "/engineer-quiz-app-legal"
+
+include:
+  - index.md
+  - privacy-policy.md
+  - terms-of-service.md
